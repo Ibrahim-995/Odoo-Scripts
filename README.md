@@ -25,7 +25,7 @@ sudo su postgres
  \q
  exit
 
-(Copy and pest conf file into odoo17.0 folder and give those into conf file)
+(Copy and pest conf file into odoo17.0/debian folder and give those into conf file)
 
 [options]
 db_host = localhost
