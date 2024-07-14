@@ -54,6 +54,9 @@ cd odoo-17.0/
 #cloudflare live server:
 wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64 -O cloudflared
 
+cloudflared tunnel --url http://localhost:8017
+
+
 
 
 
