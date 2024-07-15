@@ -37,6 +37,7 @@ addons_path = /home/ibrahim995/odoo17_env/odoo-17.0/addons,/home/ibrahim995/odoo
 http_port = 8017
 
 (Now create custom and then addons folder under the custom folder)
+to kill any runnig server command (sudo kill -9 `pidof python3`)
 ./odoo-bin -c odoo.conf
 
 
